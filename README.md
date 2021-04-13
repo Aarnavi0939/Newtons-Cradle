@@ -1,2 +1,2 @@
-# Newtons-Cradle
-something created by Newton
+# p5.play-boilerplate
+Boiler plate for p5.play
